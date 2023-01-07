@@ -12,7 +12,7 @@ $ mv Keypad ~/Arduino/libraries/
 $ wget https://www.circuitbasics.com/wp-content/uploads/2017/04/LiquidCrystal_I2C.zip && LiquidCrystal_I2C.zip
 $ mv LiquidCrystal_I2C ~/Arduino/libraries/
 ```
-## codigo.cpp
+## codigo.ino
 
 ```cpp
 #include <Wire.h> 
