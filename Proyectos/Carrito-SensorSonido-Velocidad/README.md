@@ -67,3 +67,6 @@ void loop(){
 
 https://github.com/lilberick/Arduino/assets/20149673/1a27d7c3-5c6d-41eb-9e4c-f021640e3748
 
+## También puedes verlo en mi canal de youtube
+
+[![Video de YouTube](https://img.youtube.com/vi/2SnTdmTDhcU/0.jpg)](https://www.youtube.com/watch?v=2SnTdmTDhcU)
