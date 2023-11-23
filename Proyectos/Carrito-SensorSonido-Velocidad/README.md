@@ -6,7 +6,7 @@ El carrito va a avanzar siempre y cuando haya un ruido que pueda detectar. La in
 
 ## Conexiones
 
-![](.img/3.png)
+![](.img/4.png)
 
 ## codigo.ino
 
